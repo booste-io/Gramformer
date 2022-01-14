@@ -1,3 +1,6 @@
+# Note - Forked to fix dependency version conflicts in t5-paraphrase api
+
+
 [![PyPI - License](https://img.shields.io/npm/l/express?style=flat-square)](https://github.com/PrithivirajDamodaran/Gramformer/blob/main/LICENSE)
 [![Visits Badge](https://badges.pufler.dev/visits/PrithivirajDamodaran/Gramformer)](https://badges.pufler.dev)
 
